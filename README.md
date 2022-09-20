@@ -3,7 +3,6 @@
 <!--
 **ntipac/ntipac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on data manipulation with R
 - 🌱 I’m currently learning R
@@ -13,5 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Am terrible at soccer
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntipac&count_private=trueshow_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ntipac&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=ntipac&style=flat)
