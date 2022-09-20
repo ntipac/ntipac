@@ -13,6 +13,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntipac&count_private=trueshow_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ntipac&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ntipac&theme=dracula&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=ntipac&style=flat)
