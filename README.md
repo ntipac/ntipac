@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on data manipulation with R
 - 🌱 I’m currently learning R
 - 👯 I’m looking to collaborate on both beginner and intermidiate Python
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: On Telegram @Sword101
 - 😄 Pronouns: Just call me Sword
 - ⚡ Fun fact: Am terrible at soccer
