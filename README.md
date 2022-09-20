@@ -2,7 +2,7 @@
 
 <!--
 **ntipac/ntipac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on data manipulation with R
@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: On Telegram @Sword101
 - 😄 Pronouns: Just call me Sword
 - ⚡ Fun fact: Am terrible at soccer
--->
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntipac&count_private=trueshow_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
