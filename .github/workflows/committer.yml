@@ -1,0 +1,27 @@
+name: Committer
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+
+jobs:
+  committer:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          repository: ${{ secrets.ntipac/ntipac }}
+          token: ${{ secrets.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 }}
+
+      - name: Set up Git account
+        run: |
+          git config --global user.name "${{ secrets.ntipac }}"
+          git config --global user.email "${{ secrets.ntch98@gmail.com }}"
+
+      - name: Perform empty commit
+        run: |
+          git commit --allow-empty -m "feat(committer): add absolutely nothing 🤷‍♂️"
+          git push
+        
