@@ -12,7 +12,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          repository: ${{ secrets.ntipac/ntipac }}
+          repository: ${{ secrets./ntipac }}
           token: ${{ secrets.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 }}
 
       - name: Set up Git account
